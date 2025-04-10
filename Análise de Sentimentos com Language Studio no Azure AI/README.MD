@@ -23,3 +23,18 @@ Algumas sentenças processadas foram:
 Estou muito satisfeito com o atendimento prestado pela equipe.
 O produto chegou com defeito e demorou para ser trocado.
 O site estava instável e a compra foi frustrante.
+```
+
+📊 Resultados & Insights
+A IA foi eficaz em detectar emoções subjetivas nas sentenças.
+
+Conseguiu extrair palavras-chave relevantes como “atendimento”, “defeito”, “experiência”.
+
+Observou-se que sentenças negativas tendem a conter reclamações específicas, o que pode ser útil para feedback de produto.
+
+🌱 Possibilidades Futuras
+Integrar essa análise em um painel Power BI ou Dashboard Web.
+
+Usar isso em análise de NPS ou feedbacks automáticos de clientes.
+
+Criar um chatbot que analisa mensagens em tempo real.
